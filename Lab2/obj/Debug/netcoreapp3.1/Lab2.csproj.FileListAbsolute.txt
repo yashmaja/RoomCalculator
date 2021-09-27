@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\yashi\source\repos\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\yashi\source\repos\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
